@@ -9,22 +9,22 @@ const events = [
         },
 
     {
-        title: "South to South Sessions",
-        date: "AUG 15, 2026",
+        title: "NGOMALAND",
+        date: "Coming Soon",
         location: "Chicago, IL",
-        genre: "Chicago House, AfroHouse, Amapiano, Gqom, AfroTech, 3-Step",
+        genre: "Amapiano, Afrobeats, Gqom, AfroTech, 3-Step, Ndombolo, Coupé Décalé",
         featured: false,
         },
+
 
     {
-        title: "Black evolution still working on the name",
-        date: "SEPT 02, 22026",
+        title: "ZIZIVILLE",
+        date: "Coming Soon",
         location: "Chicago, IL",
-        genre: "New York Jersey, Funk, other black diaspora genres need to research",
+        genre: "Chicago House, AfroHouse, Chicago House & Deep House, Jersey Club & Baltimore Club, Ghetto House & Footwork, Funk, Disco & Neo-Soul",
         featured: false,
 
         },
-
     ];
 
 export default function Events () {

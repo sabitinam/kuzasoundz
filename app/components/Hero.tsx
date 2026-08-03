@@ -4,8 +4,6 @@ import {useState} from  'react'; //The useState hook gives component a piece of 
 
 
 const videos = [
-    '/videos/v1.mp4',
-    '/videos/v2.mp4',
     '/videos/v3.mp4'
     ];
 
@@ -35,7 +33,7 @@ export default function Hero () {
                     KEEP UNDERGROUND ALIVE
                 </p>
 
-                <h1 className = "text-6xl md:text-8xl font-bold text-cream leading-tight mb-8">
+                <h1 className = "text-4xl md:text-5xl font-bold text-cream leading-tight mb-8">
                     SOUND. <br />CULTURE. <br />CONNECTION.
                 </h1>
 

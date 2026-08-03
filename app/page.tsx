@@ -15,7 +15,7 @@ export default function Home() {
         <About />
         <Footer />
 
-        <section className = "min-h-screen flex items-center justify-center">
+        <section className = "py-16 flex items-center justify-center">
             <h1 className = "text-5xl font-bold text-gold"> KUZA SOUNDZ </h1>
         </section>
       </main>
